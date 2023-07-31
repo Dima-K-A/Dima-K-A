@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dima-K-A
 - 👀 I’m interested in new PC
 - 🌱 I’m currently learning command block system at minecraft
-- 💞️ I’m looking to collaborate on minecraft
+- 💞️ I’m looking to collaborate on VR
 - 📫 How to reach me kulaginarts@gmail.com
 
 <!---
