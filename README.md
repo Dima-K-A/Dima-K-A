@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dima-K-A
-- 👀 I’m interested in new PC, phone and chair
+- 👀 I’m interested in new PC, phone and computer chair
 - 🌱 I’m currently learning command block system at minecraft
 - 💞️ I’m looking to collaborate on VR
 - 📫 How to reach me kulaginarts@gmail.com
