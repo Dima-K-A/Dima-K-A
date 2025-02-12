@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dima-K-A
 - 👀 I’m interested in new PC, games, phone, e-reader and computer chair
-- 🌱 I’m currently learning command block system at minecraft
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on VR and AR
 - 📫 How to reach me kulaginarts@gmail.com
 
